@@ -1,2 +1,2 @@
 # TripleTen-projects
-https://github.com/laninchowdhury/TripleTen-project
+https://github.com/laninchowdhury/TripleTen-project.git
